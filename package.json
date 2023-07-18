@@ -1,0 +1,16 @@
+{
+  "name": "unit-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.5.3",
+    "jest": "^29.6.1"
+  }
+}
